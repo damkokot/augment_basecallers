@@ -5,4 +5,4 @@ Reasearching an impact of specific augemantation of data from Oxford Nanopore Te
 ## Usage
 All detailed results, methods and materials are provided in notebooks and soon will be in seperate report. Here commands are displayed for fitting model with augment data, basecaller and accuracy.
 
-### Fittin model
+  .. code-block:: bash
