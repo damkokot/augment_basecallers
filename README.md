@@ -18,4 +18,4 @@ minimap2 -x map-ont --cs -a --secondary=no gencode.v36.transcripts.fa results/ou
 # evaluating/accuracy
 python src/accuracy.py results/FILE_NAME.sam gencode.v36.transcripts.fa
 ```
-This is full pipeline. Validation and training losse will be stored in results/csv_metrics directory. After evaluting basecaller, accuracy will display in CLI. For training and validation dataset pls contact me or just add message to Issues tab.
+This is full pipeline. Validation and training losse will be stored in results/csv_metrics directory. After evaluting basecaller, accuracy will display in CLI. For training and validation dataset please contact me or just add message to Issues tab.
